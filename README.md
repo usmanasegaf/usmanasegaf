@@ -6,7 +6,7 @@
 
 💻Currenly Learning Flutter Mobile Develompment
 
-☁️Here is [my portfolio website](http://webprofilusman.rf.gd/portfolio/)
+☁️Here is [my portfolio website](https://usmanasegaf.github.io/portfolio-bootstrap5/)
 
 #### This year stats ####
 
