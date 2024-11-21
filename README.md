@@ -4,7 +4,7 @@
 
 👨‍💼Freelancer at Upwork and Fiverr
 
-💻Currenly Learning Flutter Mobile Develompment
+💻Currenly Learning Flutter Mobile Develompment and Web Development
 
 ☁️Here is [my portfolio website](https://usmanasegaf.github.io/portfolio-bootstrap5/)
 
