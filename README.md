@@ -14,7 +14,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanasegaf&theme=tokyonight&size_weight=0.5&count_weight=0.5)
 
-## finally gets a job!
+## But Still have to focus
 
 
 
