@@ -8,6 +8,8 @@
 
 ☁️Here is [my portfolio website](https://usmanasegaf.github.io/portfolio-bootstrap5/)
 
+🌐Internetku project, [My Frontend part](https://usmanasegaf.github.io/UAS_PWEB-/)
+
 #### This year stats ####
 
 ![UsmanAsegaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=usmanasegaf&show_icons=true&theme=tokyonight&rank_icon=percentile)
