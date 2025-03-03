@@ -8,7 +8,7 @@
 
 ☁️Here is [my portfolio website](https://usmanasegaf.github.io/portfolio-bootstrap5/)
 
-🌐Internetku project, [My Frontend part](https://usmanasegaf.github.io/UAS_PWEB-/)
+🌐Internetku project, [My Frontend part](https://usmanasegaf.github.io/UAS_PWEB-/) Portfolio
 
 #### This year stats ####
 
