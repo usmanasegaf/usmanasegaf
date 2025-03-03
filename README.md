@@ -6,9 +6,11 @@
 
 💻Currenly Learning Flutter Mobile Develompment and Web Development
 
-☁️Here is [my portfolio website](https://usmanasegaf.github.io/portfolio-bootstrap5/)
+💼Below are my portfolio websites:
 
-🌐Internetku project, [My Frontend part](https://usmanasegaf.github.io/UAS_PWEB-/) Portfolio
+☁️Here is [my personal info website](https://usmanasegaf.github.io/portfolio-bootstrap5/)
+
+🌐Internetku project, [my Frontend part](https://usmanasegaf.github.io/UAS_PWEB-/) Portfolio
 
 #### This year stats ####
 
