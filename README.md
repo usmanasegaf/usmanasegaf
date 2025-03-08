@@ -2,8 +2,6 @@
 
 🎓Student at Universitas Teknologi Bandung
 
-👨‍💼Freelancer at Upwork and Fiverr
-
 💻Currenly Learning Flutter Mobile Develompment and Web Development
 
 💼Below are my portfolio websites:
