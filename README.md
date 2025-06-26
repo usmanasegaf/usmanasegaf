@@ -12,7 +12,7 @@
 
 ⚠️Above project hasn't been updated
 
-👩🏻‍💻Working as solo developer at AC Anak Cemerlang and Butterfly Swimming Course
+👩🏻‍💻Working as a solo developer at AC Anak Cemerlang and Butterfly Swimming Course
 
 #### This year stats ####
 
