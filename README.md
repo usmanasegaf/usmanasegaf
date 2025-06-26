@@ -10,6 +10,10 @@
 
 🌐Internetku project, [my Frontend part](https://usmanasegaf.github.io/UAS_PWEB-/) Portfolio
 
+⚠️Above project hasn't been updated
+
+👩🏻‍💻Working as solo developer at AC Anak Cemerlang and Butterfly Swimming Course
+
 #### This year stats ####
 
 ![UsmanAsegaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=usmanasegaf&show_icons=true&theme=tokyonight&rank_icon=percentile)
