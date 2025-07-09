@@ -10,7 +10,7 @@
 
 🌐Internetku project, [my Frontend part](https://usmanasegaf.github.io/UAS_PWEB-/) Portfolio
 
-⚠️Above project hasn't been updated,But Will be updated later..
+⚠️Above project hasn't been updated, But will be updated later..
 
 👩🏻‍💻Working as a solo developer at AC Anak Cemerlang and Butterfly Swimming Course
 
