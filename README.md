@@ -10,7 +10,7 @@
 
 🌐Internetku project, [my Frontend part](https://usmanasegaf.github.io/UAS_PWEB-/) Portfolio
 
-🌐Second actual project, portfolio [hydrosportindo](https://hydrosportindo.com/)
+🌐Second real project, portfolio [hydrosportindo](https://hydrosportindo.com/)
 
 ⚠️Above project hasn't been updated, But will be updated later..
 
